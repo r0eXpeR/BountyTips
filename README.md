@@ -22,3 +22,5 @@ Know it then hack it! by 80sec.
 3.[InfosecMatter BugBountyTips](https://www.infosecmatter.com/bug-bounty-tips/)
 
 4.[Twitter #BugBountyTips tags](https://twitter.com/hashtag/bugbountytips)
+
+持续更新中...欢迎Star
