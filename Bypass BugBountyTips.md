@@ -45,7 +45,7 @@
 
 请尝试在filename参数上使用HTTP参数污染。
 
-![](media/16085395585834/bypass-file-image.png)
+![](images/bypass-file-image.png)
 
 
 9.有时您会找到那些转发到登录页面的PATH，但看不到其中的内容。 （例如: /path/to/secret --> Google login）
