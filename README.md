@@ -2,6 +2,18 @@
 
 _在线访问地址：https://forum.ywhack.com/bountytips.php_
 
+* 命令组合：https://forum.ywhack.com/bountytips.php?onecommand
+* Red Team：https://forum.ywhack.com/bountytips.php?redteam
+* XSS Tips：https://forum.ywhack.com/bountytips.php?xss
+* RCE Tips：https://forum.ywhack.com/bountytips.php?RCE
+* Bypass：https://forum.ywhack.com/bountytips.php?Bypass
+* Redis：https://forum.ywhack.com/bountytips.php?redis
+* Mysql：https://forum.ywhack.com/bountytips.php?mysql
+* SSRF Tips：https://forum.ywhack.com/bountytips.php?SSRFTips
+* 重定向：https://forum.ywhack.com/bountytips.php?OpenRedirect
+* 文件上传：https://forum.ywhack.com/bountytips.php?FileUpload
+* 流量隧道：https://forum.ywhack.com/bountytips.php?tunnel
+
 Hey,My hacker friends:
 
 这里收集了一些常用的命令组合以及从各大社交媒体网站，如Twitter\Weibo\Fackbook等收集整理的一些优秀的BountyTips(多数翻译自[Book of BugBounty Tips](https://gowsundar.gitbook.io/book-of-bugbounty-tips/)),大部分姿势我都注明了原作者，如有遗漏或不欢迎出现在这的，可以联系我们告知，我们将及时清理；同时我们对每种姿势进行了分类整理,如XSS、SSRF、RCE、SSTI、Tricks等等，后期可能会出离线版本提供社区会员下载,感谢所有有着共同兴趣爱好的朋友!!
